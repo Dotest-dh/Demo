@@ -1,0 +1,24 @@
+
+--创建版本库
+git init
+
+
+--添加内容
+git add xxx
+
+
+--提交内容
+git commit -m
+ "标记"
+
+--查看状态
+git status
+
+
+--查看历史提价日志
+git log
+--回滚版本
+
+
+git reset --hard 版本号?
+
